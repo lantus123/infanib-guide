@@ -145,7 +145,7 @@
     "basis": "講義操作文字（PDF 24）：嬰兒仰躺，一手伸到背下肩胛骨之間，摩擦皮膚。",
     "pending": [
       "摩擦的力道、次數與持續時間：來源未明示",
-      "公開文獻找不到相同手法可交叉核對（Capute 原文未能取得），只有講義文字"
+      "只對照到講義與一份非正式投影片，未能對照 INFANIB 手冊原文與原圖"
     ],
     "src": "assets/3d/item-08-stop.webp",
     "still": "assets/3d/item-08-stop.webp",
@@ -154,7 +154,8 @@
       "middle": "assets/3d/item-08-middle.webp",
       "stop": "assets/3d/item-08-stop.webp"
     },
-    "video": "assets/3d/item-08.mp4"
+    "video": "assets/3d/item-08.mp4",
+    "corroboration": "非正式的 INFANIB 教學投影片（SlideShare，內容與講義文字相近，非手冊原文）：一手放在嬰兒身下、兩肩胛之間並摩擦皮膚；典型反應是手或腳伸展，出現屈曲也視為異常。"
   },
   "9": {
     "type": "gif",
@@ -288,7 +289,8 @@
     "pending": [
       "托起的高度：來源未明示",
       "肩帶方向：講義正文與附錄用詞不一致（沿用原註記）",
-      "公開文獻找不到「屈頭」做法的說明（1986 計分表只標 With Head Flexion），只有講義文字"
+      "托的位置：講義寫「腹下」，非正式投影片寫「胸下」，圖依講義畫在腹下，需臨床確認",
+      "屈頭的做法只有講義與 1986 計分表的「With Head Flexion」可依"
     ],
     "src": "assets/3d/item-14-stop.webp",
     "still": "assets/3d/item-14-stop.webp",
@@ -297,7 +299,8 @@
       "middle": "assets/3d/item-14-middle.webp",
       "stop": "assets/3d/item-14-stop.webp"
     },
-    "video": "assets/3d/item-14.mp4"
+    "video": "assets/3d/item-14.mp4",
+    "corroboration": "非正式的 INFANIB 教學投影片（SlideShare，內容與講義文字相近，非手冊原文）：嬰兒俯臥，檢查者把手放在嬰兒「胸下」（未提屈頭）。"
   },
   "15": {
     "type": "static",
@@ -369,7 +372,7 @@
       33
     ],
     "basis": "講義操作文字（PDF 33）：扶住坐姿嬰兒軀幹，以側方操作較合適，避免從正面誘發抓住檢查者手臂；輕向後傾，觀察雙臂向後伸出支撐。",
-    "corroboration": "Milani-Comparetti 篩檢手冊（Trembath 1977，ERIC ED235665）：扶坐、輕輕向後傾；9 個月後雙手向後伸或轉向一側單手撐。插圖的手在軀幹前方。",
+    "corroboration": "Milani-Comparetti 篩檢手冊（Trembath 1977，ERIC ED235665）：扶坐、輕輕向後傾；9 個月後雙手向後伸或轉向一側單手撐。插圖的手在軀幹前方。 非正式的 INFANIB 教學投影片（SlideShare，內容與講義文字相近，非手冊原文）：扶住軀幹、從側方較好、向後傾，嬰兒可能轉向任一側。",
     "pending": [
       "雙手在軀幹上的確切位置：講義只寫「扶住軀幹、從側方」，圖畫成一手胸前、一手背後，需臨床確認",
       "向後傾的幅度：來源未明示"
