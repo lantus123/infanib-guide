@@ -129,7 +129,6 @@
       "middle": "assets/3d/item-07-middle.webp",
       "stop": "assets/3d/item-07-stop.webp"
     },
-    "defaultSource": true,
     "replacesWithdrawn": true,
     "corroboration": "Futagi 2012（Int J Pediatr）與 Hammersmith 新生兒表單：拇指壓在足底、腳趾正後方；反應為腳趾屈曲。",
     "video": "assets/3d/item-07.mp4"
@@ -334,7 +333,6 @@
         "src": "assets/3d/item-15-variant-3.webp"
       }
     ],
-    "defaultSource": true,
     "replacesWithdrawn": true
   },
   "16": {
@@ -362,18 +360,28 @@
     "video": "assets/3d/item-16.mp4"
   },
   "17": {
-    "type": "static",
-    "caption": "後向保護性伸展反應示例；來源圖 2.23a。手冊文字建議操作者由側方執行，圖片由後方示範。",
-    "reason": "採原教材靜態圖解，不表示完整操作或受測反應。",
+    "type": "gif",
+    "kind": "3d",
+    "candidate": true,
+    "caption": "後向保護性伸展：從側方扶住坐姿嬰兒的軀幹，輕向後傾。",
+    "reason": "雙臂向後伸出是「反應存在」的示例，非每位嬰兒如此；正常嬰兒也可能略轉向一側。全程扶住、防止倒落。",
     "sourcePages": [
       33
     ],
-    "src": "assets/item-17-2-23a.png",
-    "still": "assets/item-17-2-23a.png",
+    "basis": "講義操作文字（PDF 33）：扶住坐姿嬰兒軀幹，以側方操作較合適，避免從正面誘發抓住檢查者手臂；輕向後傾，觀察雙臂向後伸出支撐。",
+    "corroboration": "Milani-Comparetti 篩檢手冊（Trembath 1977，ERIC ED235665）：扶坐、輕輕向後傾；9 個月後雙手向後伸或轉向一側單手撐。插圖的手在軀幹前方。",
     "pending": [
-      "側方操作時雙手的確切位置：講義未明示；Milani-Comparetti 手冊插圖的手在軀幹前方、站位未說明。來源不一致，暫不畫新圖"
+      "雙手在軀幹上的確切位置：講義只寫「扶住軀幹、從側方」，圖畫成一手胸前、一手背後，需臨床確認",
+      "向後傾的幅度：來源未明示"
     ],
-    "corroboration": "Milani-Comparetti 篩檢手冊（Trembath 1977，ERIC ED235665）：扶坐、輕輕向後傾；9 個月後雙手向後伸或轉向一側單手撐。"
+    "still": "assets/3d/item-17-stop.webp",
+    "stages": {
+      "start": "assets/3d/item-17-start.webp",
+      "middle": "assets/3d/item-17-middle.webp",
+      "stop": "assets/3d/item-17-stop.webp"
+    },
+    "src": "assets/3d/item-17-stop.webp",
+    "video": "assets/3d/item-17.mp4"
   },
   "18": {
     "type": "static",
@@ -440,7 +448,6 @@
       "middle": "assets/3d/item-20-middle.webp",
       "stop": "assets/3d/item-20-stop.webp"
     },
-    "defaultSource": true,
     "replacesWithdrawn": true,
     "corroboration": "Milani-Comparetti 篩檢手冊（Trembath 1977，ERIC ED235665）：背對檢查者、扶軀幹中段，直立懸空後向前傾；HINE：直立抱起後快速前傾。",
     "video": "assets/3d/item-20.mp4"
