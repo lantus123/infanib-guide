@@ -1,0 +1,435 @@
+{
+  "1": {
+    "type": "static",
+    "caption": "兩種外形各呈現雙手，並保留原教材圖。",
+    "reason": "只有外形，不呈現張力、緊握程度、持續性或左右差異，不能直接判分。",
+    "sourcePages": [
+      13
+    ],
+    "src": "assets/3d/item-01-variant-0.png",
+    "still": "assets/3d/item-01-variant-0.png",
+    "kind": "3d",
+    "variants": [
+      {
+        "label": "張開外形",
+        "src": "assets/3d/item-01-variant-0.png"
+      },
+      {
+        "label": "閉合外形",
+        "src": "assets/3d/item-01-variant-1.png"
+      }
+    ]
+  },
+  "2": {
+    "type": "gif",
+    "caption": "近肘握持，上臂輕柔移過胸前；保留原圖。",
+    "sourcePages": [
+      14,
+      15
+    ],
+    "src": "assets/3d/item-02.gif",
+    "still": "assets/3d/item-02-stop.png",
+    "stages": {
+      "start": "assets/3d/item-02-start.png",
+      "middle": "assets/3d/item-02-middle.png",
+      "stop": "assets/3d/item-02-stop.png"
+    },
+    "kind": "3d",
+    "reason": "角的頂點僅作示意，不能定位真實腋窩或量角；沒有施力、速度或月齡終點標準。"
+  },
+  "3": {
+    "type": "gif",
+    "caption": "近膝握持，伸直腿往頭側；軀幹參照與臀部近台面可見。",
+    "sourcePages": [
+      16,
+      17
+    ],
+    "src": "assets/3d/item-03.gif",
+    "still": "assets/3d/item-03-stop.png",
+    "stages": {
+      "start": "assets/3d/item-03-start.png",
+      "middle": "assets/3d/item-03-middle.png",
+      "stop": "assets/3d/item-03-stop.png"
+    },
+    "kind": "3d",
+    "reason": "不是必須碰到耳朵；不呈現個別阻力、施力或正常角度，不能代替現場手法。"
+  },
+  "4": {
+    "type": "gif",
+    "caption": "膕窩角：保持屈髖稍外展，近膝承托，伸膝方向示意",
+    "reason": "簡化3D方向候選；投影角非實測，不模擬阻力、施力或施測速度。終點僅示意；仍需原教材及專業實作核對。",
+    "sourcePages": [
+      18
+    ],
+    "src": "assets/3d/item-04.gif",
+    "still": "assets/3d/item-04-stop.png",
+    "stages": {
+      "start": "assets/3d/item-04-start.png",
+      "middle": "assets/3d/item-04-middle.png",
+      "stop": "assets/3d/item-04-stop.png"
+    },
+    "kind": "3d"
+  },
+  "5": {
+    "type": "gif",
+    "caption": "髖外展角：雙腿維持伸直，近膝握持，向兩側外展",
+    "sourcePages": [
+      20,
+      21
+    ],
+    "src": "assets/3d/item-05.gif",
+    "still": "assets/3d/item-05-stop.png",
+    "stages": {
+      "start": "assets/3d/item-05-start.png",
+      "middle": "assets/3d/item-05-middle.png",
+      "stop": "assets/3d/item-05-stop.png"
+    },
+    "kind": "3d",
+    "reason": "簡化3D方向候選；投影角非實測，不模擬阻力、施力或施測速度。終點僅示意；仍需原教材及專業實作核對。"
+  },
+  "6": {
+    "type": "gif",
+    "caption": "足部背屈：承托小腿，從足底推足；不是拉腳趾",
+    "sourcePages": [
+      22
+    ],
+    "src": "assets/3d/item-06.gif",
+    "still": "assets/3d/item-06-stop.png",
+    "stages": {
+      "start": "assets/3d/item-06-start.png",
+      "middle": "assets/3d/item-06-middle.png",
+      "stop": "assets/3d/item-06-stop.png"
+    },
+    "kind": "3d",
+    "reason": "簡化3D方向候選；投影角非實測，不模擬阻力、施力或施測速度。終點僅示意；仍需原教材及專業實作核對。"
+  },
+  "7": {
+    "type": "gif",
+    "kind": "3d",
+    "candidate": true,
+    "caption": "足底抓握：拇指（或手指）按壓足墊，看腳趾向足底屈曲。",
+    "reason": "新候選示意，取代已撤下的舊圖；腳趾屈曲只是反射存在時的示例，強度不代表分數。未畫另一手的固定方式。",
+    "sourcePages": [
+      23
+    ],
+    "basis": "講義操作文字（PDF 23）：用拇指或手指按壓足墊，觀察腳趾向足底彎曲程度，兩側比較。",
+    "pending": [
+      "另一手如何固定小腿或足部：來源未明示，未畫",
+      "Milani-Comparetti 原法是扶站讓足底著地；講義與計分表為仰臥按壓，本圖依講義"
+    ],
+    "src": "assets/3d/item-07.gif",
+    "still": "assets/3d/item-07-stop.png",
+    "stages": {
+      "start": "assets/3d/item-07-start.png",
+      "middle": "assets/3d/item-07-middle.png",
+      "stop": "assets/3d/item-07-stop.png"
+    },
+    "defaultSource": true,
+    "replacesWithdrawn": true,
+    "corroboration": "Futagi 2012（Int J Pediatr）與 Hammersmith 新生兒表單：拇指壓在足底、腳趾正後方；反應為腳趾屈曲。"
+  },
+  "8": {
+    "type": "gif",
+    "kind": "3d",
+    "candidate": true,
+    "caption": "仰臥迷路張力反射：手掌朝上伸到背下兩肩胛之間，摩擦皮膚。",
+    "reason": "只示刺激位置與方向；肩部後縮與四肢伸展／屈曲反應未模擬，不能由畫面判分。",
+    "sourcePages": [
+      24
+    ],
+    "basis": "講義操作文字（PDF 24）：嬰兒仰躺，一手伸到背下肩胛骨之間，摩擦皮膚。",
+    "pending": [
+      "摩擦的力道、次數與持續時間：來源未明示",
+      "公開文獻找不到相同手法可交叉核對（Capute 原文未能取得），只有講義文字"
+    ],
+    "src": "assets/3d/item-08.gif",
+    "still": "assets/3d/item-08-stop.png",
+    "stages": {
+      "start": "assets/3d/item-08-start.png",
+      "middle": "assets/3d/item-08-middle.png",
+      "stop": "assets/3d/item-08-stop.png"
+    }
+  },
+  "9": {
+    "type": "gif",
+    "caption": "ATNR 單側轉頭刺激方向；四肢僅為未模擬反應的位置參照。",
+    "reason": "四肢反應未模擬，不能由畫面判為無反應或5分。僅概略頭部接觸，非完整後頭承托或精細手法；不是完整雙側施測，也無臨床角度、施力、速度或持續時間模擬。",
+    "sourcePages": [
+      25
+    ],
+    "src": "assets/3d/item-09.gif",
+    "still": "assets/3d/item-09-stop.png",
+    "kind": "3d",
+    "stages": {
+      "start": "assets/3d/item-09-start.png",
+      "middle": "assets/3d/item-09-middle.png",
+      "stop": "assets/3d/item-09-stop.png"
+    }
+  },
+  "10": {
+    "type": "gif",
+    "kind": "3d",
+    "candidate": true,
+    "caption": "拉起至坐姿：握住雙手，慢慢拉向坐姿。",
+    "reason": "只示手法與方向；頭部後墜與手臂參與未模擬。頭控差時改近端支撐、不必拉到坐。",
+    "sourcePages": [
+      26
+    ],
+    "basis": "講義操作文字（PDF 26）：握雙手將嬰兒拉向坐姿；張力或頭控很差時需增加近端支撐，例如握上臂。",
+    "pending": [
+      "握手的確切握法（是否讓嬰兒握住檢查者拇指）：來源未明示",
+      "近端支撐（握上臂）版本尚未畫"
+    ],
+    "src": "assets/3d/item-10.gif",
+    "still": "assets/3d/item-10-stop.png",
+    "stages": {
+      "start": "assets/3d/item-10-start.png",
+      "middle": "assets/3d/item-10-middle.png",
+      "stop": "assets/3d/item-10-stop.png"
+    },
+    "corroboration": "Milani-Comparetti 篩檢手冊（Trembath 1977，ERIC ED235665）握前臂、HINE 握手腕、Dubowitz 1970 握手：握點各家不同，本圖依講義握雙手。"
+  },
+  "11": {
+    "type": "gif",
+    "kind": "3d",
+    "candidate": true,
+    "caption": "軀幹去旋轉：握住小腿，將一腿轉過另一腿，引導翻身。",
+    "reason": "只示引導方向；翻身完成與上側手臂預先伸出的反應未模擬。",
+    "sourcePages": [
+      27
+    ],
+    "basis": "講義操作文字（PDF 27）：握住小腿，將一腿轉過另一腿，引導由仰躺翻至俯臥。",
+    "pending": [
+      "另一手的位置：講義未明示；Milani-Comparetti 手冊插圖為雙手握腿，本圖只畫一手",
+      "引導到什麼程度放手：來源未明示"
+    ],
+    "src": "assets/3d/item-11.gif",
+    "still": "assets/3d/item-11-stop.png",
+    "stages": {
+      "start": "assets/3d/item-11-start.png",
+      "middle": "assets/3d/item-11-middle.png",
+      "stop": "assets/3d/item-11-stop.png"
+    },
+    "corroboration": "Milani-Comparetti 篩檢手冊（Trembath 1977，ERIC ED235665）：屈一側髖膝、越過身體帶動；4 個月後分節翻至俯臥；左右都測。"
+  },
+  "12": {
+    "type": "static",
+    "kind": "3d",
+    "candidate": true,
+    "caption": "軀幹旋轉：仰臥、自行翻到俯臥、接著自行扶拉站起，三張獨立姿態。",
+    "reason": "自發表現的姿態對照，不是誘發手法，也不是必然的動作細節；檢查者不協助。",
+    "sourcePages": [
+      28
+    ],
+    "basis": "講義操作文字（PDF 28）：觀察嬰兒自發由仰躺翻到俯臥，接著自行扶拉站起；不是由檢查者把嬰兒拉成站姿。",
+    "pending": [
+      "翻身與扶站之間的過渡動作：未畫"
+    ],
+    "src": "assets/3d/item-12-variant-0.png",
+    "still": "assets/3d/item-12-variant-0.png",
+    "variants": [
+      {
+        "label": "仰臥",
+        "src": "assets/3d/item-12-variant-0.png"
+      },
+      {
+        "label": "翻至俯臥",
+        "src": "assets/3d/item-12-variant-1.png"
+      },
+      {
+        "label": "自行扶站",
+        "src": "assets/3d/item-12-variant-2.png"
+      }
+    ],
+    "corroboration": "Milani-Comparetti 篩檢手冊（Trembath 1977，ERIC ED235665）：此反應不需接觸嬰兒；9–11 個月翻到俯臥並自行扶站。"
+  },
+  "13": {
+    "type": "static",
+    "caption": "前臂支撐與伸直手臂支撐兩張獨立姿態，保留原圖／原表。",
+    "reason": "不是成人擺位、月齡或分數標準；未呈現四點穩定性或手足著地後起身的完整能力。 姿態描述另核對修訂評分表 PDF42 第13列。",
+    "sourcePages": [
+      29,
+      42
+    ],
+    "src": "assets/3d/item-13-variant-0.png",
+    "still": "assets/3d/item-13-variant-0.png",
+    "kind": "3d",
+    "variants": [
+      {
+        "label": "前臂支持",
+        "src": "assets/3d/item-13-variant-0.png"
+      },
+      {
+        "label": "伸直臂支持",
+        "src": "assets/3d/item-13-variant-1.png"
+      }
+    ]
+  },
+  "14": {
+    "type": "gif",
+    "kind": "3d",
+    "candidate": true,
+    "caption": "俯臥迷路張力反射：一手在腹下托住留空間，另一手使頭頸屈曲。",
+    "reason": "只示手位與頭屈方向；上肢、髖與下肢是否屈到軀幹下的反應未模擬。",
+    "sourcePages": [
+      30,
+      42
+    ],
+    "basis": "講義操作文字（PDF 30）：手在腹下支撐，使身體有足夠空間讓膝蓋屈到身體下；另一手使頭部屈曲。",
+    "pending": [
+      "托起的高度：來源未明示",
+      "肩帶方向：講義正文與附錄用詞不一致（沿用原註記）",
+      "公開文獻找不到「屈頭」做法的說明（1986 計分表只標 With Head Flexion），只有講義文字"
+    ],
+    "src": "assets/3d/item-14.gif",
+    "still": "assets/3d/item-14-stop.png",
+    "stages": {
+      "start": "assets/3d/item-14-start.png",
+      "middle": "assets/3d/item-14-middle.png",
+      "stop": "assets/3d/item-14-stop.png"
+    }
+  },
+  "15": {
+    "type": "static",
+    "kind": "3d",
+    "candidate": true,
+    "caption": "坐姿控制：整段彎曲、約 L3、約 L5、直立四種背部姿勢。",
+    "reason": "新候選示意，取代已撤下的舊圖；只畫嬰兒背部姿勢，扶持的手沒有畫。L3／L5 為姿勢示意，非精確定位。",
+    "sourcePages": [
+      31
+    ],
+    "basis": "講義圖說與 1986 觀察表階段名稱：整段彎曲、L3 彎曲、L5 彎曲、直立；操作文字（PDF 31）：不能穩定坐立則持續支撐。",
+    "pending": [
+      "扶持的手放在哪裡：來源未明示，未畫",
+      "嚴重伸肌姿勢而無法置坐的情形：未畫"
+    ],
+    "src": "assets/3d/item-15-variant-0.png",
+    "still": "assets/3d/item-15-variant-0.png",
+    "variants": [
+      {
+        "label": "整段彎曲",
+        "src": "assets/3d/item-15-variant-0.png"
+      },
+      {
+        "label": "約 L3",
+        "src": "assets/3d/item-15-variant-1.png"
+      },
+      {
+        "label": "約 L5",
+        "src": "assets/3d/item-15-variant-2.png"
+      },
+      {
+        "label": "直立",
+        "src": "assets/3d/item-15-variant-3.png"
+      }
+    ],
+    "defaultSource": true,
+    "replacesWithdrawn": true
+  },
+  "16": {
+    "type": "gif",
+    "kind": "3d",
+    "candidate": true,
+    "caption": "側向保護性伸展：坐姿，雙手扶下軀幹兩側，向一側稍傾。",
+    "reason": "手臂伸出撐地是「反應存在」的示例，非每位嬰兒如此；只示一側，實際須兩側比較。全程扶住。",
+    "sourcePages": [
+      32
+    ],
+    "basis": "講義操作文字（PDF 32）：檢查者通常位於後方，雙手扶下軀幹兩側；先向一側稍微傾斜，再測另一側。",
+    "pending": [
+      "傾斜的幅度與速度：來源未明示",
+      "公開手冊寫「快速而穩定地傾」，講義寫「稍微傾斜」：速度以院內訓練為準"
+    ],
+    "src": "assets/3d/item-16.gif",
+    "still": "assets/3d/item-16-stop.png",
+    "stages": {
+      "start": "assets/3d/item-16-start.png",
+      "middle": "assets/3d/item-16-middle.png",
+      "stop": "assets/3d/item-16-stop.png"
+    },
+    "corroboration": "Milani-Comparetti 篩檢手冊（Trembath 1977，ERIC ED235665）：坐姿、牢牢扶住腰部、向側方傾；6 個月後伸臂張手保護。"
+  },
+  "17": {
+    "type": "static",
+    "caption": "後向保護性伸展反應示例；來源圖 2.23a。手冊文字建議操作者由側方執行，圖片由後方示範。",
+    "reason": "採原教材靜態圖解，不表示完整操作或受測反應。",
+    "sourcePages": [
+      33
+    ],
+    "src": "assets/item-17-2-23a.png",
+    "still": "assets/item-17-2-23a.png",
+    "pending": [
+      "側方操作時雙手的確切位置：講義未明示；Milani-Comparetti 手冊插圖的手在軀幹前方、站位未說明。來源不一致，暫不畫新圖"
+    ],
+    "corroboration": "Milani-Comparetti 篩檢手冊（Trembath 1977，ERIC ED235665）：扶坐、輕輕向後傾；9 個月後雙手向後伸或轉向一側單手撐。"
+  },
+  "18": {
+    "type": "static",
+    "caption": "站立負重：雙手從腋下支撐成站姿，腳、腿、膝與軀幹可見。",
+    "reason": "只呈現設定，不能驗證承重力量、時間或各月齡正常反應；站得早或久不等於正常。",
+    "sourcePages": [
+      34
+    ],
+    "src": "assets/3d/item-18-variant-0.png",
+    "still": "assets/3d/item-18-variant-0.png",
+    "kind": "3d",
+    "variants": [
+      {
+        "label": "支持設定",
+        "src": "assets/3d/item-18-variant-0.png"
+      }
+    ],
+    "candidate": true,
+    "basis": "講義操作文字（PDF 34）：從腋下支撐，使腿呈站姿，觀察腳與腿如何承重。",
+    "pending": [
+      "檢查者在嬰兒前方或後方：來源未明示（圖為後方）"
+    ],
+    "corroboration": "Utah 兒科神經學檢查：雙手置於腋下、環繞胸部。"
+  },
+  "19": {
+    "type": "static",
+    "caption": "腳跟抬高與足底平放兩張獨立觀察姿態，沒有手推腳跟。",
+    "reason": "不是必然動作順序；不模擬蜷趾或以圖片計時，實際受測表現需另行觀察與計時。",
+    "sourcePages": [
+      35
+    ],
+    "src": "assets/3d/item-19-variant-0.png",
+    "still": "assets/3d/item-19-variant-0.png",
+    "kind": "3d",
+    "variants": [
+      {
+        "label": "足底平放",
+        "src": "assets/3d/item-19-variant-0.png"
+      },
+      {
+        "label": "足跟抬高",
+        "src": "assets/3d/item-19-variant-1.png"
+      }
+    ]
+  },
+  "20": {
+    "type": "gif",
+    "kind": "3d",
+    "candidate": true,
+    "caption": "前向保護性伸展：從背後扶軀幹兩側，直立懸空後頭朝前、朝支撐面移近。",
+    "reason": "新候選示意，取代已撤下的舊圖；雙臂前伸是「反應存在」的示例。全程抓穩、防碰撞，僅由受訓人員操作。",
+    "sourcePages": [
+      36
+    ],
+    "basis": "講義操作文字（PDF 36）：兩手分別扶住軀幹兩側並充分支撐，將嬰兒頭朝前、朝支撐面移近。",
+    "pending": [
+      "移近到離支撐面多近停止：來源未明示",
+      "前傾速度：公開手冊寫突然前傾，講義未寫；以院內訓練為準"
+    ],
+    "src": "assets/3d/item-20.gif",
+    "still": "assets/3d/item-20-stop.png",
+    "stages": {
+      "start": "assets/3d/item-20-start.png",
+      "middle": "assets/3d/item-20-middle.png",
+      "stop": "assets/3d/item-20-stop.png"
+    },
+    "defaultSource": true,
+    "replacesWithdrawn": true,
+    "corroboration": "Milani-Comparetti 篩檢手冊（Trembath 1977，ERIC ED235665）：背對檢查者、扶軀幹中段，直立懸空後向前傾；HINE：直立抱起後快速前傾。"
+  }
+}

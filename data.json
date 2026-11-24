@@ -1,0 +1,1674 @@
+{
+  "title": "INFANIB 中文圖解操作與計分",
+  "subtitle": "早產兒追蹤診｜6 月與 12 月操作初版",
+  "reviewStatus": "依 NB CR 講義修訂版整理的操作輔助初版；正式臨床採用前仍需院內確認。不是獨立診斷工具。",
+  "ageNote": "以矯正月齡選擇檢查項目。本版只開放 6 月與 12 月計分；其他 0–18 月提供適齡清單與原表參考，不自動計分或判讀。未達起始月齡的項目排除，不補 5 分；尚未完成的項目不得當作 0 分。",
+  "sources": [
+    {
+      "label": "INFANIB 講義（主要操作與修訂評分表，PDF 13–36、41–42 頁）",
+      "url": "#source-withheld"
+    },
+    {
+      "label": "Infanib 評估單（1986 原表，交叉核對）",
+      "url": "#source-withheld"
+    },
+    {
+      "label": "INFANIB 教學簡報（2018 院內版，交叉核對）",
+      "url": "#source-withheld"
+    },
+    {
+      "label": "追蹤診大集合（2024 更新，24 月不做 INFANIB）",
+      "url": "#source-withheld"
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "number": 1,
+      "title": "手部張開與握拳 Hands Open/Closed",
+      "domain": "仰臥",
+      "ageLabel": "出生起；本版僅 6／12 月開放計分",
+      "minAge": 0,
+      "maxAge": 18,
+      "procedure": [
+        "在其他檢查進行時，觀察雙手自然與受刺激時的姿勢，區別一般閉手與緊握拳。"
+      ],
+      "observe": [
+        "注意緊握或壓力動作後緊握，不能等同一般閉合。",
+        "較早出現張手本身不視為異常；原手冊1月正常示例已張手。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-01-2-1.png",
+          "caption": "手部觀察示例：來源圖 2.1，1 個月嬰兒手張開。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 13,
+          "printedPage": 23,
+          "figure": "2.1",
+          "sourceUrl": "#source-withheld"
+        },
+        {
+          "src": "assets/item-01-2-2.png",
+          "caption": "對照示例：來源圖 2.2，持續握拳表現；需搭配月齡與檢查情境判讀。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 13,
+          "printedPage": 23,
+          "figure": "2.2",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "雙手自然張開",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 3,
+          "text": "間歇閉合",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "持續閉合、緊握、壓力動作時緊握，或一手閉合另一手張開",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "雙手自然張開",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "間歇閉合",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "持續閉合、緊握、壓力動作時緊握，或一手閉合另一手張開",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        13
+      ]
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "title": "圍巾徵象 Scarf Sign",
+      "domain": "仰臥",
+      "ageLabel": "出生起；本版僅 6／12 月開放計分",
+      "minAge": 0,
+      "maxAge": 18,
+      "procedure": [
+        "握住肘部附近，將上臂輕柔移過胸前，至容易活動的終點，不用力硬拉。",
+        "以腋下為頂點，量上臂與腋下向下假想垂線的夾角。"
+      ],
+      "observe": [
+        "角度須與來源圖採相同定義；遇阻力即停。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-02-2-4b.png",
+          "caption": "圍巾徵操作與姿勢示例：來源圖 2.4b（4–6 個月）。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 14,
+          "printedPage": 24,
+          "figure": "2.4b",
+          "sourceUrl": "#source-withheld"
+        },
+        {
+          "src": "assets/item-02-2-4d.png",
+          "caption": "較大月齡姿勢對照：來源圖 2.4d（10–12 個月）。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 14,
+          "printedPage": 24,
+          "figure": "2.4d",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "45–60°",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 3,
+          "text": "15–45° 或 60–85°",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "低於第 1 階段、0–15°，或超過第 4 階段",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "60–85°",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "45–60° 或超過第 4 階段",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "低於第 1 階段、0–15° 或 15–45°",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "title": "足跟靠耳 Heel to Ear",
+      "domain": "仰臥",
+      "ageLabel": "出生起；本版僅 6／12 月開放計分",
+      "minAge": 0,
+      "maxAge": 18,
+      "procedure": [
+        "握住膝部附近，使腿伸直；臀部盡量留在檢查台上或貼近台面。",
+        "將腿往頭部方向移，量軀幹與腿的夾角，以髖為頂點；測髖部柔軟度，不是彎曲下背。"
+      ],
+      "observe": [
+        "角度愈小代表腿更靠近軀幹，不可套用膕窩角的年齡數值。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-03-2-6b.png",
+          "caption": "足跟向耳試驗：握住膝部、腿伸直，臀部盡量貼近檢查台；來源圖 2.6b（4–6 個月）。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 16,
+          "printedPage": 26,
+          "figure": "2.6b",
+          "sourceUrl": "#source-withheld"
+        },
+        {
+          "src": "assets/item-03-2-6d.png",
+          "caption": "較大月齡姿勢對照：來源圖 2.6d（10–12 個月）。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 16,
+          "printedPage": 26,
+          "figure": "2.6d",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "40–60°",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 3,
+          "text": "60–90° 或 10–40°",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "90–100°、>100° 或 <10°",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "10–40°",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "40–60° 或低於 10°",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "60–90°、90–100° 或 >100°",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "title": "膕窩角 Popliteal Angle",
+      "domain": "仰臥",
+      "ageLabel": "出生起；本版僅 6／12 月開放計分",
+      "minAge": 0,
+      "maxAge": 18,
+      "procedure": [
+        "握膝附近，屈髖，雙腿稍向身體兩側外展，臀部維持近台面。",
+        "逐步伸膝直到遇到阻力，以膝後方為頂點，量大腿與小腿間角度；兩側比較。"
+      ],
+      "observe": [
+        "明顯左右不對稱依原表優先給 1 分。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-04-2-8b.png",
+          "caption": "膕窩角操作示例：屈髖並伸膝，觀察大小腿夾角；來源圖 2.8b（4–6 個月）。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 18,
+          "printedPage": 28,
+          "figure": "2.8b",
+          "sourceUrl": "#source-withheld"
+        },
+        {
+          "src": "assets/item-04-2-8d.png",
+          "caption": "較大月齡姿勢對照：來源圖 2.8d（10–12 個月）。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 18,
+          "printedPage": 28,
+          "figure": "2.8d",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "110–150°",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 3,
+          "text": "90–110° 或 150–170°",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "<80°、80–90°、>170°，或明顯左右不對稱",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "150–170°",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "110–150° 或 >170°",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "<80°、80–90°、90–110°，或明顯左右不對稱",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "5",
+      "number": 5,
+      "title": "髖外展角 Leg Abduction",
+      "domain": "仰臥",
+      "ageLabel": "出生起；本版僅 6／12 月開放計分",
+      "minAge": 0,
+      "maxAge": 18,
+      "procedure": [
+        "握住雙膝附近，使兩腿保持伸直，緩慢向外分開，遇阻力即停。",
+        "以會陰處為頂點，量兩腿之間的夾角。"
+      ],
+      "observe": [
+        "注意膝部是否仍伸直及骨盆是否代償。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-05-2-10b.png",
+          "caption": "下肢外展角操作與姿勢：來源圖 2.10b（4–6 個月）。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 20,
+          "printedPage": 30,
+          "figure": "2.10b",
+          "sourceUrl": "#source-withheld"
+        },
+        {
+          "src": "assets/item-05-2-10d.png",
+          "caption": "較大月齡姿勢對照：來源圖 2.10d（10–12 個月）。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 20,
+          "printedPage": 30,
+          "figure": "2.10d",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "100–130°",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 3,
+          "text": "70–100° 或 130–150°",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "<40°、40–70° 或 >150°",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "130–150°",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "100–130° 或 >150°",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "<40°、40–70° 或 70–100°",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "6",
+      "number": 6,
+      "title": "足部背屈 Dorsiflexion of Foot",
+      "domain": "仰臥",
+      "ageLabel": "出生起；本版僅 6／12 月開放計分",
+      "minAge": 0,
+      "maxAge": 18,
+      "procedure": [
+        "將足部朝小腿方向推至遇到阻力；是推足部，不是拉扯。",
+        "以踝為頂點，量足部與小腿間角度。"
+      ],
+      "observe": [
+        "講義修訂表對 3 月前嬰兒有不同角度配分；本版只開放 6／12 月計分。",
+        "明顯左右不對稱優先給 1 分。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-06-2-12a.png",
+          "caption": "踝背屈手法示例：向上推足至遇阻力，觀察足與小腿夾角；來源圖 2.12a。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 22,
+          "printedPage": 32,
+          "figure": "2.12a",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "40–70°",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 3,
+          "text": "10–40° 或 70–80°",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "0–10°、80–90°，或明顯左右不對稱",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "40–70°",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "10–40° 或 70–80°",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "0–10°、80–90°，或明顯左右不對稱",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        22
+      ]
+    },
+    {
+      "id": "7",
+      "number": 7,
+      "title": "足底抓握反射 Foot Grasp",
+      "domain": "仰臥",
+      "ageLabel": "出生起；本版僅 6／12 月開放計分",
+      "minAge": 0,
+      "maxAge": 18,
+      "procedure": [
+        "用拇指或手指按壓足墊，觀察腳趾向足底彎曲程度，兩側比較。"
+      ],
+      "observe": [
+        "6 月仍可有抓握；12 月評估反射殘留。明顯不對稱優先給 1 分。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-07-2-13a.png",
+          "caption": "足底抓握誘發示例：手指按壓足墊，觀察腳趾向足底屈曲；來源圖 2.13a。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 23,
+          "printedPage": 33,
+          "figure": "2.13a",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "無過強抓握、無壓力動作誘發抓握，且無明顯左右不對稱（可仍有一般抓握）",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "過強抓握、壓力動作誘發抓握，或明顯左右不對稱",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "抓握消失",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "僅輕微抓握",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "仍有抓握，或明顯左右不對稱",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        23
+      ]
+    },
+    {
+      "id": "8",
+      "number": 8,
+      "title": "仰臥緊張性迷路反射 Tonic Labyrinthine Supine",
+      "domain": "仰臥",
+      "ageLabel": "出生起；本版僅 6／12 月開放計分",
+      "minAge": 0,
+      "maxAge": 18,
+      "procedure": [
+        "嬰兒仰躺，一手伸到背下肩胛骨之間，摩擦皮膚。",
+        "觀察肩部後縮與手腳伸展，亦留意不正常的手腳屈曲反應。"
+      ],
+      "observe": [
+        "6 月與 12 月均按反射是否殘留及強度給分；不要把未滿 6 月的過強反應規則套入。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-08-2-14a.png",
+          "caption": "仰臥迷路張力反射操作示例：一手置於背部肩胛骨間刺激；來源圖 2.14a。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 24,
+          "printedPage": 34,
+          "figure": "2.14a",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "反射消失",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 3,
+          "text": "部分反應",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "完整反應",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "反射消失",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "部分反應",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "完整反應",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        24
+      ]
+    },
+    {
+      "id": "9",
+      "number": 9,
+      "title": "不對稱性頸張力反射 Asymmetric Tonic Neck Reflex",
+      "domain": "仰臥",
+      "ageLabel": "出生起；本版僅 6／12 月開放計分",
+      "minAge": 0,
+      "maxAge": 18,
+      "procedure": [
+        "將頭轉向一側，觀察面向側手臂及腿伸展、對側手臂屈曲的擊劍姿勢。",
+        "觀察是否可自行解除姿勢，並比較兩側；持續或自發出現需特別記錄。"
+      ],
+      "observe": [
+        "短暫出現後能移出，與持續固定姿勢不同。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-09-2-15a.png",
+          "caption": "不對稱頸張力反射操作示例：轉頭後觀察兩側肢體姿勢；來源圖 2.15a。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 25,
+          "printedPage": 35,
+          "figure": "2.15a",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "反射消失",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 3,
+          "text": "出現姿勢，但能自行移出",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "姿勢持續固定",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "反射消失",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "出現姿勢，但能自行移出",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "姿勢持續固定",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        25
+      ]
+    },
+    {
+      "id": "10",
+      "number": 10,
+      "title": "拉起至坐姿 Pull to Sitting",
+      "domain": "仰臥",
+      "ageLabel": "出生起；本版僅 6／12 月開放計分",
+      "minAge": 0,
+      "maxAge": 18,
+      "procedure": [
+        "有足夠張力與頭部控制時，握雙手將嬰兒拉向坐姿。",
+        "張力或頭控很差時需增加近端支撐，例如握上臂；若已明顯頭控不佳，不必強行拉到坐姿。",
+        "頭部與手臂表現不一致時，以頭部姿勢作評分依據。"
+      ],
+      "observe": [
+        "不要只看頭部：原計分表同時判定 head lag 與手臂參與。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-10-2-16a.png",
+          "caption": "牽拉坐起手法示例：同時觀察頭部控制與手臂反應；來源圖 2.16a。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 26,
+          "printedPage": 36,
+          "figure": "2.16a",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "頭部與手臂均能主動屈曲參與",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 3,
+          "text": "部分頭部後墜，或沒有使用手臂",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "頭部完全後墜，且沒有使用手臂",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "頭部與手臂均能主動屈曲參與",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "部分頭部後墜，或沒有使用手臂",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "頭部完全後墜，且沒有使用手臂",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        26
+      ]
+    },
+    {
+      "id": "11",
+      "number": 11,
+      "title": "軀幹去旋轉反應 Body Derotative",
+      "domain": "仰臥",
+      "ageLabel": "4 月起；本版僅 6／12 月開放計分",
+      "minAge": 4,
+      "maxAge": 18,
+      "procedure": [
+        "握住小腿，將一腿轉過另一腿，引導由仰躺翻至俯臥。",
+        "觀察上側手臂能否預先伸出、身體順利配合；兩側比較。",
+        "若現場不願做，可採照顧者所述在家已能由背翻至腹的能力。"
+      ],
+      "observe": [
+        "起始計分月齡為 4 月；未達月齡不列入總分，不自動補滿分。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-11-2-17a.png",
+          "caption": "誘發翻身示例：由下肢開始帶動，觀察上側手臂參與與翻身；來源圖 2.17a。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 27,
+          "printedPage": 37,
+          "figure": "2.17a",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "雙側反應均存在",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 3,
+          "text": "反應遲緩或輕度不對稱",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "反應消失或明顯不對稱",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "雙側反應均存在",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "反應遲緩或輕度不對稱",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "反應消失或明顯不對稱",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        27
+      ]
+    },
+    {
+      "id": "12",
+      "number": 12,
+      "title": "軀幹旋轉反應 Body Rotative",
+      "domain": "仰臥",
+      "ageLabel": "9 月起；本版僅 6／12 月開放計分",
+      "minAge": 9,
+      "maxAge": 18,
+      "procedure": [
+        "觀察嬰兒自發由仰躺翻到俯臥，接著自行扶拉站起（pull-to-stand）的連續表現；不是由檢查者把嬰兒拉成站姿。",
+        "若現場未接著自行扶拉站起，可向照顧者確認在家是否已做到。"
+      ],
+      "observe": [
+        "起始計分月齡為 9 月。院內舊簡報／中文摘要將此項簡化成翻身，省略手冊所述自行扶拉站起；不能以短句代替完整操作。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-12-2-18a.png",
+          "caption": "主動軀幹旋轉／翻身示例；來源圖 2.18a。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 28,
+          "printedPage": 38,
+          "figure": "2.18a",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "軀幹旋轉反應存在",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "遲緩或輕度不對稱",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "消失或明顯不對稱",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        28
+      ]
+    },
+    {
+      "id": "13",
+      "number": 13,
+      "title": "俯臥四點支撐進展 All Fours",
+      "domain": "俯臥",
+      "ageLabel": "出生起；本版僅 6／12 月開放計分",
+      "minAge": 0,
+      "maxAge": 18,
+      "procedure": [
+        "置於俯臥，觀察頭、手臂與腿姿勢。",
+        "早期各部位成熟度不一致時，以頭部表現作主要評分依據。"
+      ],
+      "observe": [
+        "依實際姿勢進程判定；院內簡報的操作段落誤複製翻身內容，本版已排除。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-13-stages.png",
+          "caption": "俯臥能力進程（由左至右）：抬頭、45°、前臂支撐、90°、伸直上肢承重、四點支撐不穩、穩定、經手足著地站起。6 月以伸直上肢承重為 5 分；12 月以最後階段為 5 分。",
+          "source": "1986 原評估單（乾淨姿勢示意，計分仍依修訂手冊）",
+          "sourcePage": 3,
+          "printedPage": 549,
+          "sourceUrl": "#source-withheld"
+        },
+        {
+          "src": "assets/item-13-2-19a.png",
+          "caption": "俯臥支撐與抬頭觀察示例；來源圖 2.19a。圖片是姿勢示例，不是所有月齡的滿分標準。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 29,
+          "printedPage": 39,
+          "figure": "2.19a",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "以伸直上肢承重",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 3,
+          "text": "頭抬起約 90°",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "只以前臂支撐或更早的階段",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "能經手足著地（plantigrade）姿勢向上站起",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "四點支撐穩定",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "四點支撐不穩或更早的階段",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        29
+      ]
+    },
+    {
+      "id": "14",
+      "number": 14,
+      "title": "俯臥緊張性迷路反射 Tonic Labyrinthine Prone",
+      "domain": "俯臥",
+      "ageLabel": "出生起；本版僅 6／12 月開放計分",
+      "minAge": 0,
+      "maxAge": 18,
+      "procedure": [
+        "嬰兒俯臥，手在腹下支撐，使身體有足夠空間讓膝蓋屈到身體下。",
+        "另一手使頭部屈曲，觀察肩部與手、髖、腿是否屈到軀幹下。"
+      ],
+      "observe": [
+        "講義正文與附錄對肩帶方向的用詞不一致。本版以可觀察的整體屈曲模式搭配原圖呈現，不把單一肩帶方向當作唯一評分依據；需正式操作訓練核對。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-14-2-20a.png",
+          "caption": "俯臥迷路張力反射手法：腹部托住，再屈曲頭頸觀察四肢反應；來源圖 2.20a。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 30,
+          "printedPage": 40,
+          "figure": "2.20a",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "未見下列過強整體屈曲姿勢",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "明顯異常的整體屈曲模式，上肢、髖或下肢收於軀幹下方",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "反射消失",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "部分反應",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "完整反應",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        30
+      ]
+    },
+    {
+      "id": "15",
+      "number": 15,
+      "title": "坐姿控制 Sitting",
+      "domain": "坐姿",
+      "ageLabel": "出生起；本版僅 6／12 月開放計分",
+      "minAge": 0,
+      "maxAge": 18,
+      "procedure": [
+        "置於坐姿，若不能穩定坐立則持續支撐。",
+        "觀察軀幹彎曲位置與頭頸是否過度後仰。"
+      ],
+      "observe": [
+        "L3、L5 是圖示的彎曲位置，不是以「Absent／Some」描述反射。",
+        "若因嚴重伸肌姿勢而無法置坐，或須額外屈髖屈膝才能克服該姿勢勉強置坐，依手冊給 1 分；單純屈髖屈膝本身不是此異常。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-15-stages.png",
+          "caption": "坐姿階段（由左至右）：整段彎曲、L3 彎曲、L5 彎曲、直立。6 月：依序 1／3／5 分，較成熟表現需依完整臨床情境核對；12 月：依序 1／1／3／5 分。",
+          "source": "1986 原評估單（乾淨姿勢示意，計分仍依修訂手冊）",
+          "sourcePage": 3,
+          "printedPage": 549,
+          "sourceUrl": "#source-withheld"
+        },
+        {
+          "src": "assets/item-15-2-21a.png",
+          "caption": "支撐坐姿觀察示例：注意軀幹前彎位置；來源圖 2.21a（4 個月）。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 31,
+          "printedPage": 41,
+          "figure": "2.21a",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "背部彎曲點約在 L5",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 3,
+          "text": "背部彎曲點約在 L3",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "整段背部仍呈彎曲姿勢；或因嚴重伸肌姿勢而無法置坐，或須額外屈髖屈膝才能克服該姿勢勉強置坐",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "坐姿背部能保持直立",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "背部彎曲點約在 L5",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "彎曲點約在 L3 或更早階段；或因嚴重伸肌姿勢而無法置坐，或須額外屈髖屈膝才能克服該姿勢勉強置坐",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        31
+      ]
+    },
+    {
+      "id": "16",
+      "number": 16,
+      "title": "側向保護性伸展 Sideways Parachute",
+      "domain": "坐姿",
+      "ageLabel": "6 月起；本版僅 6／12 月開放計分",
+      "minAge": 6,
+      "maxAge": 18,
+      "procedure": [
+        "嬰兒坐姿，檢查者通常位於後方，雙手扶下軀幹兩側。",
+        "先向一側稍微傾斜，再測另一側，觀察傾斜側手臂是否主動伸出、手掌支撐恢復平衡。"
+      ],
+      "observe": [
+        "原表從 6 月開始，不是到滿 7 月才開始。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-16-2-22a.png",
+          "caption": "側向保護性伸展反應：支撐軀幹側傾，觀察同側手臂支撐；來源圖 2.22a。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 32,
+          "printedPage": 42,
+          "figure": "2.22a",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "雙側手臂均有保護性伸展",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 3,
+          "text": "遲緩或輕度不對稱",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "消失或明顯不對稱",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "雙側手臂均有保護性伸展",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "遲緩或輕度不對稱",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "消失或明顯不對稱",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        32
+      ]
+    },
+    {
+      "id": "17",
+      "number": 17,
+      "title": "後向保護性伸展 Backwards Parachute",
+      "domain": "坐姿",
+      "ageLabel": "9 月起；本版僅 6／12 月開放計分",
+      "minAge": 9,
+      "maxAge": 18,
+      "procedure": [
+        "扶住坐姿嬰兒軀幹，以側方操作較合適，避免從正面誘發抓住檢查者手臂。",
+        "輕向後傾，觀察雙臂向後伸出支撐；全程防止倒落。"
+      ],
+      "observe": [
+        "原表從 9 月開始；6 月不計分。",
+        "正常嬰兒可能略轉向一側；此項不適合作為單獨判定偏癱的依據。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-17-2-23a.png",
+          "caption": "後向保護性伸展反應示例；來源圖 2.23a。手冊文字建議操作者由側方執行，圖片由後方示範。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 33,
+          "printedPage": 43,
+          "figure": "2.23a",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "雙側手臂均有保護性伸展",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "遲緩或輕度不對稱",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "消失或明顯不對稱",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        33
+      ]
+    },
+    {
+      "id": "18",
+      "number": 18,
+      "title": "站立負重 Standing / Weight Bearing",
+      "domain": "站立",
+      "ageLabel": "出生起；本版僅 6／12 月開放計分",
+      "minAge": 0,
+      "maxAge": 18,
+      "procedure": [
+        "從腋下支撐，使腿呈站姿，觀察腳與腿如何承重。",
+        "觀察膝蓋是否會彎曲、承重是否固定僵直；較大嬰兒可面向照顧者。"
+      ],
+      "observe": [
+        "量表 6 月的階段名稱是「負重不均」，不能據此認定持續偏側負重屬正常。",
+        "若持續偏側、僵硬或動作品質可疑，另記觀察並由臨床人員判讀。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-18-stages.png",
+          "caption": "站立進程（由左至右）：原始反射、不承重、承重差且膝彎、負重不均、前一站姿圖、成熟直立圖。6 月：不承重 1、承重差 3、負重不均階段 5；12 月：負重不均或更早 1、前一站姿圖 3、成熟直立圖 5。",
+          "source": "1986 原評估單（乾淨姿勢示意，計分仍依修訂手冊）",
+          "sourcePage": 3,
+          "printedPage": 549,
+          "sourceUrl": "#source-withheld"
+        },
+        {
+          "src": "assets/item-18-2-24a.png",
+          "caption": "扶站負重觀察：觀察腿、足部及軀幹姿勢；來源圖 2.24a（10 個月）。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 34,
+          "printedPage": 44,
+          "figure": "2.24a",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "達到來源圖所示「負重不均」階段；仍須另評估異常偏側姿勢",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 3,
+          "text": "負重不佳、膝部彎曲",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "不能承重",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "扶持下身體與雙腿能伸直站立",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "達到原表的前一個站姿階段（請對照附圖），尚未達成熟直立姿勢",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "負重不均或更早階段",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        34
+      ]
+    },
+    {
+      "id": "19",
+      "number": 19,
+      "title": "陽性支持反應 Positive Support Reaction",
+      "domain": "站立",
+      "ageLabel": "3 月起；本版僅 6／12 月開放計分",
+      "minAge": 3,
+      "maxAge": 18,
+      "procedure": [
+        "支撐嬰兒站立，觀察腳跟是否落地、足底是否放平。",
+        "若先踮腳，計時觀察何時轉成足底平放。"
+      ],
+      "observe": [
+        "這項觀察足部支持姿勢與時間，不等同第 18 項整體站立負重。",
+        "原表未單獨定義踮腳不足 5 秒的分類；不要依秒數自動換算分數。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-19-2-25a.png",
+          "caption": "足底平貼地面示例；來源圖 2.25a。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 35,
+          "printedPage": 45,
+          "figure": "2.25a",
+          "sourceUrl": "#source-withheld"
+        },
+        {
+          "src": "assets/item-19-2-25b.png",
+          "caption": "腳尖支撐、足跟抬高的對照示例；來源圖 2.25b。需配合持續時間記錄。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 35,
+          "printedPage": 45,
+          "figure": "2.25b",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "腳掌平貼並維持承重",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 3,
+          "text": "先踮腳 5–30 秒，之後腳掌放平",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 1,
+          "text": "踮腳持續超過 30 秒",
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "score": 5,
+          "text": "腳掌平貼並維持承重",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "先踮腳 5–30 秒，之後腳掌放平",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "踮腳持續超過 30 秒",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        35
+      ]
+    },
+    {
+      "id": "20",
+      "number": 20,
+      "title": "前向保護性伸展 Forward Parachute",
+      "domain": "懸抱",
+      "ageLabel": "7 月起；本版僅 6／12 月開放計分",
+      "minAge": 7,
+      "maxAge": 18,
+      "procedure": [
+        "兩手分別扶住軀幹兩側並充分支撐，將嬰兒頭朝前、朝支撐面移近。",
+        "觀察是否主動預先向前伸出雙臂與雙手支撐，而非僅因移動而被動垂下。",
+        "全程抓穩並避免頭臉或身體碰撞支撐面；僅由受訓人員操作。"
+      ],
+      "observe": [
+        "原表從 7 月開始；6 月不計分。",
+        "手冊提醒少數其他神經表現正常的嬰兒亦可能不伸臂，不能單項直接診斷。"
+      ],
+      "figures": [
+        {
+          "src": "assets/item-20-2-26a.png",
+          "caption": "前向保護性伸展反應：牢固支撐軀幹，觀察雙手前伸；來源圖 2.26a（7 個月）。",
+          "source": "INFANIB 講義.pdf",
+          "sourcePdf": "sources/manual.pdf",
+          "sourcePage": 36,
+          "printedPage": 46,
+          "figure": "2.26a",
+          "sourceUrl": "#source-withheld"
+        }
+      ],
+      "anchors": [
+        {
+          "score": 5,
+          "text": "保護性伸展存在",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 3,
+          "text": "遲緩或輕度不對稱",
+          "minAge": 12,
+          "maxAge": 12
+        },
+        {
+          "score": 1,
+          "text": "消失或明顯不對稱",
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "verified": true,
+      "verifiedAgeRanges": [
+        {
+          "minAge": 6,
+          "maxAge": 6
+        },
+        {
+          "minAge": 12,
+          "maxAge": 12
+        }
+      ],
+      "sourcePage": [
+        36
+      ]
+    }
+  ],
+  "sourceNotes": [
+    "本版統一採講義附錄修訂表；未把1986原表、2018簡報的不同版本混合計分。",
+    "講義修訂表增加早期足部背屈年齡差異、抓握壓力動作與明顯不對稱等規則；本版採修訂表。",
+    "角度區間端點在原表存在重疊寫法；邊界值請依原圖及正式操作標準核對，不把數字輸入自動換成分數。",
+    "原表「4至8月」與「8月以上」判讀區間重疊，8月不自動分類。",
+    "院內2018簡報有24月欄，但原評分表到18月，2024追蹤診摘要註明24月不做INFANIB；本版不延伸到24月。",
+    "第 12 項完整操作包含自行翻至俯臥後，嬰兒自行扶拉站起；不是檢查者拉站，也不能只以會翻身當作完成。",
+    "第 13、15、18 項另附 1986 空白觀察表的進程／姿勢示意，避免講義範例手寫圈選誤導；圖片僅供對照，6／12 月計分仍統一依講義修訂表。"
+  ],
+  "notes": [
+    "本版統一採講義附錄修訂表；未把1986原表、2018簡報的不同版本混合計分。",
+    "講義修訂表增加早期足部背屈年齡差異、抓握壓力動作與明顯不對稱等規則；本版採修訂表。",
+    "角度區間端點在原表存在重疊寫法；邊界值請依原圖及正式操作標準核對，不把數字輸入自動換成分數。",
+    "原表「4至8月」與「8月以上」判讀區間重疊，8月不自動分類。",
+    "院內2018簡報有24月欄，但原評分表到18月，2024追蹤診摘要註明24月不做INFANIB；本版不延伸到24月。",
+    "第 12 項完整操作包含自行翻至俯臥後，嬰兒自行扶拉站起；不是檢查者拉站，也不能只以會翻身當作完成。",
+    "第 13、15、18 項另附 1986 空白觀察表的進程／姿勢示意，避免講義範例手寫圈選誤導；圖片僅供對照，6／12 月計分仍統一依講義修訂表。"
+  ]
+}
