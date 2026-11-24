@@ -6,17 +6,17 @@
     "sourcePages": [
       13
     ],
-    "src": "assets/3d/item-01-variant-0.png",
-    "still": "assets/3d/item-01-variant-0.png",
+    "src": "assets/3d/item-01-variant-0.webp",
+    "still": "assets/3d/item-01-variant-0.webp",
     "kind": "3d",
     "variants": [
       {
         "label": "張開外形",
-        "src": "assets/3d/item-01-variant-0.png"
+        "src": "assets/3d/item-01-variant-0.webp"
       },
       {
         "label": "閉合外形",
-        "src": "assets/3d/item-01-variant-1.png"
+        "src": "assets/3d/item-01-variant-1.webp"
       }
     ]
   },
@@ -27,12 +27,12 @@
       14,
       15
     ],
-    "src": "assets/3d/item-02.gif",
-    "still": "assets/3d/item-02-stop.png",
+    "src": "assets/3d/item-02.webp",
+    "still": "assets/3d/item-02-stop.webp",
     "stages": {
-      "start": "assets/3d/item-02-start.png",
-      "middle": "assets/3d/item-02-middle.png",
-      "stop": "assets/3d/item-02-stop.png"
+      "start": "assets/3d/item-02-start.webp",
+      "middle": "assets/3d/item-02-middle.webp",
+      "stop": "assets/3d/item-02-stop.webp"
     },
     "kind": "3d",
     "reason": "角的頂點僅作示意，不能定位真實腋窩或量角；沒有施力、速度或月齡終點標準。"
@@ -44,12 +44,12 @@
       16,
       17
     ],
-    "src": "assets/3d/item-03.gif",
-    "still": "assets/3d/item-03-stop.png",
+    "src": "assets/3d/item-03.webp",
+    "still": "assets/3d/item-03-stop.webp",
     "stages": {
-      "start": "assets/3d/item-03-start.png",
-      "middle": "assets/3d/item-03-middle.png",
-      "stop": "assets/3d/item-03-stop.png"
+      "start": "assets/3d/item-03-start.webp",
+      "middle": "assets/3d/item-03-middle.webp",
+      "stop": "assets/3d/item-03-stop.webp"
     },
     "kind": "3d",
     "reason": "不是必須碰到耳朵；不呈現個別阻力、施力或正常角度，不能代替現場手法。"
@@ -61,12 +61,12 @@
     "sourcePages": [
       18
     ],
-    "src": "assets/3d/item-04.gif",
-    "still": "assets/3d/item-04-stop.png",
+    "src": "assets/3d/item-04.webp",
+    "still": "assets/3d/item-04-stop.webp",
     "stages": {
-      "start": "assets/3d/item-04-start.png",
-      "middle": "assets/3d/item-04-middle.png",
-      "stop": "assets/3d/item-04-stop.png"
+      "start": "assets/3d/item-04-start.webp",
+      "middle": "assets/3d/item-04-middle.webp",
+      "stop": "assets/3d/item-04-stop.webp"
     },
     "kind": "3d"
   },
@@ -77,12 +77,12 @@
       20,
       21
     ],
-    "src": "assets/3d/item-05.gif",
-    "still": "assets/3d/item-05-stop.png",
+    "src": "assets/3d/item-05.webp",
+    "still": "assets/3d/item-05-stop.webp",
     "stages": {
-      "start": "assets/3d/item-05-start.png",
-      "middle": "assets/3d/item-05-middle.png",
-      "stop": "assets/3d/item-05-stop.png"
+      "start": "assets/3d/item-05-start.webp",
+      "middle": "assets/3d/item-05-middle.webp",
+      "stop": "assets/3d/item-05-stop.webp"
     },
     "kind": "3d",
     "reason": "簡化3D方向候選；投影角非實測，不模擬阻力、施力或施測速度。終點僅示意；仍需原教材及專業實作核對。"
@@ -93,12 +93,12 @@
     "sourcePages": [
       22
     ],
-    "src": "assets/3d/item-06.gif",
-    "still": "assets/3d/item-06-stop.png",
+    "src": "assets/3d/item-06.webp",
+    "still": "assets/3d/item-06-stop.webp",
     "stages": {
-      "start": "assets/3d/item-06-start.png",
-      "middle": "assets/3d/item-06-middle.png",
-      "stop": "assets/3d/item-06-stop.png"
+      "start": "assets/3d/item-06-start.webp",
+      "middle": "assets/3d/item-06-middle.webp",
+      "stop": "assets/3d/item-06-stop.webp"
     },
     "kind": "3d",
     "reason": "簡化3D方向候選；投影角非實測，不模擬阻力、施力或施測速度。終點僅示意；仍需原教材及專業實作核對。"
@@ -117,12 +117,12 @@
       "另一手如何固定小腿或足部：來源未明示，未畫",
       "Milani-Comparetti 原法是扶站讓足底著地；講義與計分表為仰臥按壓，本圖依講義"
     ],
-    "src": "assets/3d/item-07.gif",
-    "still": "assets/3d/item-07-stop.png",
+    "src": "assets/3d/item-07.webp",
+    "still": "assets/3d/item-07-stop.webp",
     "stages": {
-      "start": "assets/3d/item-07-start.png",
-      "middle": "assets/3d/item-07-middle.png",
-      "stop": "assets/3d/item-07-stop.png"
+      "start": "assets/3d/item-07-start.webp",
+      "middle": "assets/3d/item-07-middle.webp",
+      "stop": "assets/3d/item-07-stop.webp"
     },
     "defaultSource": true,
     "replacesWithdrawn": true,
@@ -142,12 +142,12 @@
       "摩擦的力道、次數與持續時間：來源未明示",
       "公開文獻找不到相同手法可交叉核對（Capute 原文未能取得），只有講義文字"
     ],
-    "src": "assets/3d/item-08.gif",
-    "still": "assets/3d/item-08-stop.png",
+    "src": "assets/3d/item-08.webp",
+    "still": "assets/3d/item-08-stop.webp",
     "stages": {
-      "start": "assets/3d/item-08-start.png",
-      "middle": "assets/3d/item-08-middle.png",
-      "stop": "assets/3d/item-08-stop.png"
+      "start": "assets/3d/item-08-start.webp",
+      "middle": "assets/3d/item-08-middle.webp",
+      "stop": "assets/3d/item-08-stop.webp"
     }
   },
   "9": {
@@ -157,13 +157,13 @@
     "sourcePages": [
       25
     ],
-    "src": "assets/3d/item-09.gif",
-    "still": "assets/3d/item-09-stop.png",
+    "src": "assets/3d/item-09.webp",
+    "still": "assets/3d/item-09-stop.webp",
     "kind": "3d",
     "stages": {
-      "start": "assets/3d/item-09-start.png",
-      "middle": "assets/3d/item-09-middle.png",
-      "stop": "assets/3d/item-09-stop.png"
+      "start": "assets/3d/item-09-start.webp",
+      "middle": "assets/3d/item-09-middle.webp",
+      "stop": "assets/3d/item-09-stop.webp"
     }
   },
   "10": {
@@ -180,12 +180,12 @@
       "握手的確切握法（是否讓嬰兒握住檢查者拇指）：來源未明示",
       "近端支撐（握上臂）版本尚未畫"
     ],
-    "src": "assets/3d/item-10.gif",
-    "still": "assets/3d/item-10-stop.png",
+    "src": "assets/3d/item-10.webp",
+    "still": "assets/3d/item-10-stop.webp",
     "stages": {
-      "start": "assets/3d/item-10-start.png",
-      "middle": "assets/3d/item-10-middle.png",
-      "stop": "assets/3d/item-10-stop.png"
+      "start": "assets/3d/item-10-start.webp",
+      "middle": "assets/3d/item-10-middle.webp",
+      "stop": "assets/3d/item-10-stop.webp"
     },
     "corroboration": "Milani-Comparetti 篩檢手冊（Trembath 1977，ERIC ED235665）握前臂、HINE 握手腕、Dubowitz 1970 握手：握點各家不同，本圖依講義握雙手。"
   },
@@ -203,12 +203,12 @@
       "另一手的位置：講義未明示；Milani-Comparetti 手冊插圖為雙手握腿，本圖只畫一手",
       "引導到什麼程度放手：來源未明示"
     ],
-    "src": "assets/3d/item-11.gif",
-    "still": "assets/3d/item-11-stop.png",
+    "src": "assets/3d/item-11.webp",
+    "still": "assets/3d/item-11-stop.webp",
     "stages": {
-      "start": "assets/3d/item-11-start.png",
-      "middle": "assets/3d/item-11-middle.png",
-      "stop": "assets/3d/item-11-stop.png"
+      "start": "assets/3d/item-11-start.webp",
+      "middle": "assets/3d/item-11-middle.webp",
+      "stop": "assets/3d/item-11-stop.webp"
     },
     "corroboration": "Milani-Comparetti 篩檢手冊（Trembath 1977，ERIC ED235665）：屈一側髖膝、越過身體帶動；4 個月後分節翻至俯臥；左右都測。"
   },
@@ -225,20 +225,20 @@
     "pending": [
       "翻身與扶站之間的過渡動作：未畫"
     ],
-    "src": "assets/3d/item-12-variant-0.png",
-    "still": "assets/3d/item-12-variant-0.png",
+    "src": "assets/3d/item-12-variant-0.webp",
+    "still": "assets/3d/item-12-variant-0.webp",
     "variants": [
       {
         "label": "仰臥",
-        "src": "assets/3d/item-12-variant-0.png"
+        "src": "assets/3d/item-12-variant-0.webp"
       },
       {
         "label": "翻至俯臥",
-        "src": "assets/3d/item-12-variant-1.png"
+        "src": "assets/3d/item-12-variant-1.webp"
       },
       {
         "label": "自行扶站",
-        "src": "assets/3d/item-12-variant-2.png"
+        "src": "assets/3d/item-12-variant-2.webp"
       }
     ],
     "corroboration": "Milani-Comparetti 篩檢手冊（Trembath 1977，ERIC ED235665）：此反應不需接觸嬰兒；9–11 個月翻到俯臥並自行扶站。"
@@ -251,17 +251,17 @@
       29,
       42
     ],
-    "src": "assets/3d/item-13-variant-0.png",
-    "still": "assets/3d/item-13-variant-0.png",
+    "src": "assets/3d/item-13-variant-0.webp",
+    "still": "assets/3d/item-13-variant-0.webp",
     "kind": "3d",
     "variants": [
       {
         "label": "前臂支持",
-        "src": "assets/3d/item-13-variant-0.png"
+        "src": "assets/3d/item-13-variant-0.webp"
       },
       {
         "label": "伸直臂支持",
-        "src": "assets/3d/item-13-variant-1.png"
+        "src": "assets/3d/item-13-variant-1.webp"
       }
     ]
   },
@@ -281,12 +281,12 @@
       "肩帶方向：講義正文與附錄用詞不一致（沿用原註記）",
       "公開文獻找不到「屈頭」做法的說明（1986 計分表只標 With Head Flexion），只有講義文字"
     ],
-    "src": "assets/3d/item-14.gif",
-    "still": "assets/3d/item-14-stop.png",
+    "src": "assets/3d/item-14.webp",
+    "still": "assets/3d/item-14-stop.webp",
     "stages": {
-      "start": "assets/3d/item-14-start.png",
-      "middle": "assets/3d/item-14-middle.png",
-      "stop": "assets/3d/item-14-stop.png"
+      "start": "assets/3d/item-14-start.webp",
+      "middle": "assets/3d/item-14-middle.webp",
+      "stop": "assets/3d/item-14-stop.webp"
     }
   },
   "15": {
@@ -303,24 +303,24 @@
       "扶持的手放在哪裡：來源未明示，未畫",
       "嚴重伸肌姿勢而無法置坐的情形：未畫"
     ],
-    "src": "assets/3d/item-15-variant-0.png",
-    "still": "assets/3d/item-15-variant-0.png",
+    "src": "assets/3d/item-15-variant-0.webp",
+    "still": "assets/3d/item-15-variant-0.webp",
     "variants": [
       {
         "label": "整段彎曲",
-        "src": "assets/3d/item-15-variant-0.png"
+        "src": "assets/3d/item-15-variant-0.webp"
       },
       {
         "label": "約 L3",
-        "src": "assets/3d/item-15-variant-1.png"
+        "src": "assets/3d/item-15-variant-1.webp"
       },
       {
         "label": "約 L5",
-        "src": "assets/3d/item-15-variant-2.png"
+        "src": "assets/3d/item-15-variant-2.webp"
       },
       {
         "label": "直立",
-        "src": "assets/3d/item-15-variant-3.png"
+        "src": "assets/3d/item-15-variant-3.webp"
       }
     ],
     "defaultSource": true,
@@ -340,12 +340,12 @@
       "傾斜的幅度與速度：來源未明示",
       "公開手冊寫「快速而穩定地傾」，講義寫「稍微傾斜」：速度以院內訓練為準"
     ],
-    "src": "assets/3d/item-16.gif",
-    "still": "assets/3d/item-16-stop.png",
+    "src": "assets/3d/item-16.webp",
+    "still": "assets/3d/item-16-stop.webp",
     "stages": {
-      "start": "assets/3d/item-16-start.png",
-      "middle": "assets/3d/item-16-middle.png",
-      "stop": "assets/3d/item-16-stop.png"
+      "start": "assets/3d/item-16-start.webp",
+      "middle": "assets/3d/item-16-middle.webp",
+      "stop": "assets/3d/item-16-stop.webp"
     },
     "corroboration": "Milani-Comparetti 篩檢手冊（Trembath 1977，ERIC ED235665）：坐姿、牢牢扶住腰部、向側方傾；6 個月後伸臂張手保護。"
   },
@@ -370,13 +370,13 @@
     "sourcePages": [
       34
     ],
-    "src": "assets/3d/item-18-variant-0.png",
-    "still": "assets/3d/item-18-variant-0.png",
+    "src": "assets/3d/item-18-variant-0.webp",
+    "still": "assets/3d/item-18-variant-0.webp",
     "kind": "3d",
     "variants": [
       {
         "label": "支持設定",
-        "src": "assets/3d/item-18-variant-0.png"
+        "src": "assets/3d/item-18-variant-0.webp"
       }
     ],
     "candidate": true,
@@ -393,17 +393,17 @@
     "sourcePages": [
       35
     ],
-    "src": "assets/3d/item-19-variant-0.png",
-    "still": "assets/3d/item-19-variant-0.png",
+    "src": "assets/3d/item-19-variant-0.webp",
+    "still": "assets/3d/item-19-variant-0.webp",
     "kind": "3d",
     "variants": [
       {
         "label": "足底平放",
-        "src": "assets/3d/item-19-variant-0.png"
+        "src": "assets/3d/item-19-variant-0.webp"
       },
       {
         "label": "足跟抬高",
-        "src": "assets/3d/item-19-variant-1.png"
+        "src": "assets/3d/item-19-variant-1.webp"
       }
     ]
   },
@@ -421,12 +421,12 @@
       "移近到離支撐面多近停止：來源未明示",
       "前傾速度：公開手冊寫突然前傾，講義未寫；以院內訓練為準"
     ],
-    "src": "assets/3d/item-20.gif",
-    "still": "assets/3d/item-20-stop.png",
+    "src": "assets/3d/item-20.webp",
+    "still": "assets/3d/item-20-stop.webp",
     "stages": {
-      "start": "assets/3d/item-20-start.png",
-      "middle": "assets/3d/item-20-middle.png",
-      "stop": "assets/3d/item-20-stop.png"
+      "start": "assets/3d/item-20-start.webp",
+      "middle": "assets/3d/item-20-middle.webp",
+      "stop": "assets/3d/item-20-stop.webp"
     },
     "defaultSource": true,
     "replacesWithdrawn": true,
